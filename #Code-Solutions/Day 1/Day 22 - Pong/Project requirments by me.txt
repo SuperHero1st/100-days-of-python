@@ -1,0 +1,9 @@
+creating screen
+Scoreboard class
+
+creating ball and moving it
+creating bats and controlling one of them
+
+detecting collision with bats and increasing score
+detecting collision with each wall, 
+losing a point when hitting the wall behind the bat
